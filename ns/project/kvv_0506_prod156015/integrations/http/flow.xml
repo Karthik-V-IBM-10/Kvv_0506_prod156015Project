@@ -354,7 +354,7 @@
   <DATA ENCODING="XMLValues" I18N="true">
 
 <Values version="2.0">
-  <value name="xml">https://prod156015.a-vir-r1.int.ipaas.preprod.automation.ibm.com/integration/restv2/development/flbf47f1df0595a138e6f647/restTest/drt</value>
+  <value name="xml">https://prod156015.a-vir-r1.int.ipaas.preprod.automation.ibm.com/integration/restv2/development/flbf47f1df0595a138e6f647/restTest/ert</value>
 </Values>
 </DATA>
 </MAPSET>
