@@ -8,6 +8,14 @@ packages:
   gitUsername: Karthik-V-IBM-10
   gitBranch: main
 services:
+- serviceName: project.kvv_0506_prod156015.integrations:http
+  packages:
+  - name: Kvv_0506_prod156015Project
+    version: "1.0"
+- serviceName: pub.client:http
+  packages:
+  - name: WmPublic
+    version: 11.1.0.0.2064
 - serviceName: project.kvv_0506_prod156015.integrations:varTest
   packages:
   - name: Kvv_0506_prod156015Project
@@ -15,4 +23,4 @@ services:
 - serviceName: pub.globalVariable:getGlobalVariable
   packages:
   - name: WmPublic
-    version: 11.1.0.0.2062
+    version: 11.1.0.0.2064
